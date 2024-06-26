@@ -1,0 +1,24 @@
+_repo: The-gabled-farm-b-or-young-workers-for-the-King_73876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73876'
+language: en
+pgterms:marc905: 20240608124504shaw
+pgterms:marc906: '1878'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw and Co., $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The gabled farm : $b or, young workers for the King.'
+url: http://www.gutenberg.org/ebooks/73876
